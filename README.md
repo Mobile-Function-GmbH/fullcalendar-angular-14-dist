@@ -1,0 +1,1 @@
+These files are the build output of this project: https://github.com/fullcalendar/fullcalendar-angular
